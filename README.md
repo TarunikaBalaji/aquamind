@@ -46,5 +46,8 @@ Preprocessed and trained using scikit-learn classifiers.
 - Output: Water quality prediction (potable / non-potable, risk score)  
 - Saved as: `model.pkl`  
 
----
+## 🎥 Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/SiQ3Sd52rv4/0.jpg)](https://www.youtube.com/watch?v=SiQ3Sd52rv4)
+
 
